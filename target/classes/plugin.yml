@@ -1,0 +1,6 @@
+name: 1.18Compass
+version: '1.0-SNAPSHOT'
+main: mmmosd.kro.kr
+api-version: 1.18
+commands:
+    compass:
