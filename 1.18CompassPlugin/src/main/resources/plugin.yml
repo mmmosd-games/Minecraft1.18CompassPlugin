@@ -1,0 +1,6 @@
+name: 1.18Compass
+version: '${project.version}'
+main: mmmosd.kro.kr
+api-version: 1.18
+commands:
+    compass:
